@@ -61,15 +61,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soubhagyakuanr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-## 💻 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubhagyakuanr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-## 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soubhagyakuanr&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soubhagyakuanr&show_icons=true&theme=radical&hide_border=true" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soubhagyakuanr&layout=compact&theme=radical&hide_border=true" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soubhagyakuanr&theme=radical&hide_border=true" width="33%" />
 </p>
